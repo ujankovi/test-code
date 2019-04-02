@@ -12,6 +12,8 @@ mydiv.setAttribute('style', 'color: blue');
 
 console.log($mydiv.css("color"));
 
+// This is my new line!
+
 console.log(mydiv);
 
 // console.log($);
